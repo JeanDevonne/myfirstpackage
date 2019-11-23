@@ -1,0 +1,15 @@
+{
+  "name": "@jeancarlos/how-to-npm",
+  "version": "1.0.0",
+  "description": "a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "jean",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "repository": ""
+}
